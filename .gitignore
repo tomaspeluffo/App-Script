@@ -1,0 +1,14 @@
+.env
+node_modules
+package-lock.json
+apidoc
+uploads/
+'uploads/
+temp/
+'temp/
+.idea/
+.vscode
+api/dist/
+.parcel-cache/
+/.parcel-cache/*
+'parcel-cache/
